@@ -1,6 +1,6 @@
-# T9_project--
+# T9_project
 1st project at FIT VUT. 
-Assignment:--
+Assignment:
 Cílem projektu je vytvořit program, který by emuloval zjednodušený algoritmus hledání kontaktů zadaných pomocí posloupnosti číslic. Vstupem programu je posloupnost číslic. Výstup programu bude obsahovat seznam kontaktů, které odpovídají zadanému číselnému filtru.
 Detailní specifikace
 Program implementujte ve zdrojovém souboru ''t9search.c''. Vstupní data budou čtena ze standardního vstupu (stdin), výstup bude tisknut na standardní výstup (stdout).
